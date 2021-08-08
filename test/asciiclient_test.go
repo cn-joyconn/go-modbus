@@ -9,7 +9,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/cn-joyconn/modbus"
+	modbus "github.com/cn-joyconn/go-modbus"
 )
 
 const (

@@ -1,2 +1,2 @@
-github.com/cn-joyconn/serial v0.1.0 h1:BFeTR70VOdb3Uwz9AWvSZmOZ/1kZoJYr2DaKE9ARk38=
-github.com/cn-joyconn/serial v0.1.0/go.mod h1:9bBexqN/CM+MdkneYv3dp6+Fr4HkYj1Q7iRPw8MLbcY=
+github.com/cn-joyconn/go-serial v0.1.0 h1:jnvXTCdVmkR01g9pTc43vdecn/5sWufsY4OEk83n/eY=
+github.com/cn-joyconn/go-serial v0.1.0/go.mod h1:DeUolVTu1Ek2WS/w8iwyJ3NmfUIisooWdiJKl+LqgBg=

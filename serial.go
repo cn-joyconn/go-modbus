@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/cn-joyconn/serial"
+	serial "github.com/cn-joyconn/go-serial"
 )
 
 const (
